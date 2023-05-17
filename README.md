@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 </div>
 
 ##
-
+<!--
 <div>
   <img align=center height=50em width=50em src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
   <img align=center height=50em width=50em src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
@@ -37,3 +37,4 @@ Here are some ideas to get you started:
 </div>
 
 ##
+-->
