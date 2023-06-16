@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <div align-items="inline">
   <img height=180em src=https://github-readme-stats.vercel.app/api?username=JuanXavier-hub&icons=true&theme=highcontrast&include_all_commits>
-  <img height=180em src=https://github-readme-stats.vercel.app/api/top-langs/?username=JuanXavier-hub&hide_progress=false&theme=highcontrast&layout=compact>
+  <img height=180em src=https://github-readme-stats.vercel.app/api/top-langs/?username=JuanXavier-hub&hide_progress=false&theme=highcontrast&layout=donut>
 </div>
 
 ##
