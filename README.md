@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 ### Hello world! 👋
 
+Não trabalho com programação (nunca tive a oportunidade), faço por diversão. Não tenho muito tempo e, por isso, deixo muitos projetos inacabados e espalhados em outras plataformas.
+
 ##
 
 <div align-items="inline">
