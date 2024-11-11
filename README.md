@@ -17,9 +17,6 @@ Here are some ideas to get you started:
 
 ### Hello world! 👋
 
-Estou tentando transição de carreira, não trabalho com programação (nunca tive a oportunidade), faço por diversão. 
-<!--Não tenho muito tempo e, por isso, deixo muitos projetos inacabados e espalhados em outras plataformas. Tentarei -->
-
 ##
 
 <div align-items="inline">
