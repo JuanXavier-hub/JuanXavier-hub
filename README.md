@@ -16,16 +16,17 @@ Here are some ideas to get you started:
 -->
 
 ### Hello world! 👋
-
+<!--
 ##
 
 <div align-items="inline">
   <img height=200em src=https://github-readme-stats.vercel.app/api?username=JuanXavier-hub&icons=true&theme=highcontrast&include_all_commits>
   <img height=200em src=https://github-readme-stats.vercel.app/api/top-langs/?username=JuanXavier-hub&hide_progress=false&theme=highcontrast&layout=donut>
 </div>
+-->
 
 ##
-<!--
+
 <div>
   <img align=center height=50em width=50em src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
   <img align=center height=50em width=50em src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
@@ -37,4 +38,4 @@ Here are some ideas to get you started:
 </div>
 
 ##
--->
+
